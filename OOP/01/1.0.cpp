@@ -1,6 +1,14 @@
 #include <iostream>
 using namespace std;
+
+class Employee {
+
+
+};
+
 int main () {
-cout <<"Hello ";
+
+
+    
     return 0;
 }
